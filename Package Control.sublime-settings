@@ -1,0 +1,25 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Anaconda",
+		"auto-save",
+		"Djaneiro",
+		"FTPSync",
+		"GitGutter",
+		"MarkdownPreview",
+		"Materialize",
+		"Package Control",
+		"Predawn",
+		"requirementstxt",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-json",
+		"SublimeLinter-pep8",
+		"SublimeLinter-pyflakes",
+		"Tabnine",
+	],
+	"in_process_packages":
+	[
+	],
+}
